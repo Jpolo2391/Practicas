@@ -49,7 +49,7 @@ export const About = () => {
                         <img className="img-circle" src="img/pic.jpg" width="110" height="110" alt=""/>
                         <h4>Frank Lampard</h4>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                        <p><a href="#">@Frank_BlackTie</a></p>
+                        <p><a href="/">@Frank_BlackTie</a></p>
                     </div>
                 {/*  <!-- col-lg-3--> */}
 
@@ -57,7 +57,7 @@ export const About = () => {
                         <img className="img-circle" src="img/pic2.jpg" width="110" height="110" alt=""/>
                         <h4>David Wright</h4>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                        <p><a href="#">@David_BlackTie</a></p>
+                        <p><a href="/">@David_BlackTie</a></p>
                     </div>
                 {/*  <!-- col-lg-3--> */}
 
@@ -65,7 +65,7 @@ export const About = () => {
                         <img className="img-circle" src="img/pic3.jpg" width="110" height="110" alt=""/>
                         <h4>Mark Milestone</h4>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                        <p><a href="#">@Mark_BlackTie</a></p>
+                        <p><a href="/">@Mark_BlackTie</a></p>
                     </div>
                 {/*  <!-- col-lg-3--> */}
 
@@ -73,7 +73,7 @@ export const About = () => {
                         <img className="img-circle" src="img/pic4.jpg" width="110" height="110" alt=""/>
                         <h4>Tania Tissen</h4>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                        <p><a href="#">@Tania_BlackTie</a></p>
+                        <p><a href="/">@Tania_BlackTie</a></p>
                     </div>
                 {/*  <!-- col-lg-3--> */}
 
@@ -150,7 +150,7 @@ export const About = () => {
             <div id="f">
                 <div className="container">
                     <div className="row centered">
-                        <a href="#"><i className="fa fa-twitter"></i></a><a href="#"><i className="fa fa-facebook"></i></a><a href="#"><i className="fa fa-dribbble"></i></a>
+                        <a href="/"><i className="fa fa-twitter"></i></a><a href="#"><i className="fa fa-facebook"></i></a><a href="/"><i className="fa fa-dribbble"></i></a>
 
                     </div>
                 {/*  <!-- row--> */}

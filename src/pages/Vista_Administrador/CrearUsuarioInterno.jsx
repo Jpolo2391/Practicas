@@ -8,7 +8,7 @@ import {
   Boton,
   MensajeExito,
   MensajeError,
-  Titulo,
+//   Titulo,
 } from "../../elementos/Formularios";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExclamationTriangle } from "@fortawesome/free-solid-svg-icons";
